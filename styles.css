@@ -1,0 +1,19 @@
+
+
+.calculator-container {
+    display: grid;
+    max-width: 300px;
+    border: 1px solid black;
+}
+
+.buttons-container {
+    display: inline-grid;
+    gap: 2px;
+    grid-template-columns: auto auto auto auto;
+}
+
+button {
+    min-width: max-content;
+    font-size: larger;
+
+}
