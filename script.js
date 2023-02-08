@@ -9,7 +9,7 @@ console.table(numberButtons, operatorButtons)
 
 let firstNumber 
 let secondNumber
-let currentOperation  
+let currentOperation = null
 
 /* Events */
 
